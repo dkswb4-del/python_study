@@ -38,12 +38,66 @@ if num > 5:
 # else:
 #     print("불합격")
 
-score = 75
-if score >= 90:
-    print("A")
-elif score >= 80:
-    print("B")
-elif score >= 70:
-    print(score, "점이라서 C이군요 ㅠㅠ") #75점이라서 C이군요 ㅜㅜ
-else:
-    print("F")
+# score = 75
+# if score >= 90:
+#     print("A")
+# elif score >= 80:
+#     print("B")
+# elif score >= 70:
+#     print(score, "점이라서 C이군요 ㅠㅠ") #75점이라서 C이군요 ㅜㅜ
+# else:
+#     print("F")
+# fruits = ["사과", "바나나", "포도"]
+
+# fruits = {
+#     "0" : "사과"
+#     "1" : "바나나"
+#     "2" : "포도"
+# }
+# fruits[0]
+
+# 유치원 = {
+#     "해바라기" : ["유아인", "정해인"],
+#     "무궁화" : [],
+#     "개나리" : ["신동엽"]
+# }
+
+
+# #시각화훈련에는 과목으로는 파이썬과 깃이 있습니다.
+
+
+# 시각화훈련 = {
+#     "과목" : ["파이썬", "깃"]
+# }
+
+# #나는 애완동물로 고양이와 개를 키웁니다. 고양이는 보미와 겨울이고 개는 돌돌이입니다
+
+# 나 = {
+#     "애완동물" : {
+#         "고양이": ["보미", "겨울"], 
+#         "개" : ["돌돌이"]
+# }
+# }
+
+# student = {
+#     "이름" : "홍길동",
+#     "나이" : 25
+# }
+
+# fruits = ["사과", "바나나", "포도"]
+
+# for fruits in fruits:
+#     print(fruit)
+
+word = "python"
+
+for ch in "python":
+    if(ch == 't') :
+        print(ch)
+    else:
+        print("다필요없어")
+
+# for( int = 0; int < 5;int++ ){
+#     실행문;
+# }
+
